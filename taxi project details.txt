@@ -1,5 +1,5 @@
 
  Githublink:  https://github.com/arooj-kanth/aroojtaxi
 
-deployed link :- 
+deployed link :- https://iridescent-raindrop-3a40b6.netlify.app/
 Name: Arooj Kanth
