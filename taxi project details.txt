@@ -1,5 +1,5 @@
-Name:- Abhishek Kumar
 
-Github:-https://github.com/ABHI24033/Taxi-Project
+ Githublink:  https://github.com/arooj-kanth/aroojtaxi
 
-deployed link :- https://taxi-project-eight.vercel.app/
+deployed link :- 
+Name: Arooj Kanth
